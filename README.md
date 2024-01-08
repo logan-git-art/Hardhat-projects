@@ -1,11 +1,11 @@
-#**Simple Storage using Hardhat **
+#Simple Storage using Hardhat 
 
 This is a section of the Javascript Blockchain/Smart Contract.
 
 
-#**Getting Started**
+#Getting Started
 
-##**Requirements**
+##Requirements
 
 -- [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
   - You'll know you did it right if you can run `git --version` and you see a response like `git version x.x.x`
@@ -17,7 +17,7 @@ This is a section of the Javascript Blockchain/Smart Contract.
     - `yarn --version` and get an output like: `x.x.x`
     - You might need to [install it with `npm`](https://classic.yarnpkg.com/lang/en/docs/install/) or `corepack`
 
-##**Quickstart**
+##Quickstart
 
 ```
 git clone https://github.com/PatrickAlphaC/hardhat-simple-storage-fcc
