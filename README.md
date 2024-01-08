@@ -1,4 +1,4 @@
-# **Simple Storage using Hardhat **
+# Simple Storage using Hardhat 
 
 This is a section of the Javascript Blockchain/Smart Contract.
 
